@@ -1,7 +1,3 @@
-# Awesome Project Build with TypeORM
+This is a simple backend boilerplate for apollo graphql server on typeorm
 
-Steps to run this project:
-
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+follow .env.example for needed env variables
